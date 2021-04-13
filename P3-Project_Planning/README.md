@@ -28,4 +28,4 @@ https://trello.com/b/zZMAv2hy
 
 ### Project Repo Link
 
-https://github.com/stacxy/projectX
+https://github.com/stacxy/project-x
